@@ -1,0 +1,110 @@
+[
+    {
+        "id":25,
+        "title":"TMZ",
+        "rating":2.9,
+        "img":"https://image.tmdb.org/t/p/original/ifFpUG51DJaQxwnZ35VwoGRFGGv.jpg",
+        "count": 45,
+        "average": 2.428
+
+    },
+    {
+        "id":26,
+        "title":"Ici tout commence",
+        "rating":4,
+        "img":"https://image.tmdb.org/t/p/original/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+        "count": 4495,
+        "average": 7.888
+
+    },
+    {
+        "id":27,
+        "title":"Mania de Você",
+        "rating":3.1,
+        "img":"https://image.tmdb.org/t/p/original/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+        "count": 928,
+        "average": 9
+
+    },
+    {
+        "id":28,
+        "title":"Papás por Conveniencia",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/y7yIu9PKx2WTphhYgbBq9C1RNzV.jpg",
+        "count": 5005,
+        "average": 8.4
+
+    },
+    {
+        "id":29,
+        "title":"Strictly Come Dancing: It Takes Two",
+        "rating":4.1,
+        "img":"https://image.tmdb.org/t/p/original/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+        "count": 925,
+        "average": 4.41
+
+    },
+    {
+        "id":30,
+        "title":"I'm a Celebrity... Unpacked",
+        "rating":3.4,
+        "img":"https://image.tmdb.org/t/p/original/sY1x4nU5yGZ34E1Jew07aEhjPHK.jpg",
+        "count": 2120,
+        "average": 8.78
+
+    },
+    {
+        "id":31,
+        "title":"A Promessa",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+        "count": 1077,
+        "average": 6.777
+
+    },
+    {
+        "id":32,
+        "title":"Ulice",
+        "rating":3.3,
+        "img":"https://image.tmdb.org/t/p/original/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+        "count": 754,
+        "average": 5.4
+
+    },
+    {
+        "id":33,
+        "title":"Suidooster",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/naCgSiacvV685kait6fBvhVhdce.jpg",
+        "count": 2621,
+        "average": 6.5
+
+    },
+    {
+        "id":34,
+        "title":"愛•回家之開心速遞",
+        "rating":4.2,
+        "img":"https://image.tmdb.org/t/p/original/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "count": 741,
+        "average": 3.14
+
+    },
+    {
+        "id":35,
+        "title":"Lavender Fields",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+        "count": 3215,
+        "average": 8.28
+
+    },
+    {
+        "id":36,
+        "title":"GGarota do Momento",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/jFSkjQSZ5Td52igalpoTQRuHtk.jpg",
+        "count": 1205,
+        "average": 7.428
+
+    }
+]

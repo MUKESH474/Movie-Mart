@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+body{
+  font-family:"Quicksand", sans-serif;  
+}
 .App {
   text-align: center;
 }
@@ -35,4 +39,68 @@
   to {
     transform: rotate(360deg);
   }
+}
+.hadernav{
+  background-color: rgb(0, 0, 0);
+}
+.navheading{
+  color: aliceblue  !important;
+  margin-left: 25px;
+  border-bottom: 2px solid transparent;
+  
+}
+.navheading:hover{
+  color: rgb(7, 249, 3) !important;
+  border-bottom: 2px solid white;
+  cursor: pointer;
+}
+.naveallheading{
+  color: rgb(0, 255, 251)  !important;
+  margin-left: 10px;
+  text-decoration: none;
+}
+.naveallheading:hover{
+  color: white;
+}
+.navheading1{
+  color: rgb(4, 255, 0)  !important;
+  margin-left: 10px;
+  text-decoration: none;
+}
+.movicon{
+  font-size: 30px;
+  color: red;
+  margin-left: 1px;
+  cursor: pointer;
+}
+.headerlink{
+  text-decoration: none;
+  color: white;
+}
+.headerlink:hover{
+  color: rgb(34, 255, 0);
+}
+.cardimage{
+  width: 100%;
+  object-fit: cover;
+}
+.star{
+  color: yellow;
+}
+.movielistcard{
+  display: flex;
+  flex-wrap: wrap;
+}
+table, th, td {
+  border: 2px solid rgb(0, 0, 0) !important;
+  border-collapse: collapse !important;
+}
+th, td {
+  background-color: #dededd;
+}
+table{
+  width: 300px !important;
+  height: 200px !important;
+  margin-left: 320px !important;
+  margin-top: 60px !important;
 }

@@ -1,0 +1,431 @@
+[
+    {
+        "id":37,
+        "title":"Wicked",
+        "rating":3.9,
+        "img":"https://image.tmdb.org/t/p/original/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "count": 450,
+        "average": 7.428
+
+    },
+    {
+        "id":38,
+        "title":"We Live in Time",
+        "rating":5,
+        "img":"https://image.tmdb.org/t/p/original/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+        "count": 9495,
+        "average": 9.888
+
+    },
+    {
+        "id":39,
+        "title":"Le Comte de Monte-Cristo",
+        "rating":3.1,
+        "img":"https://image.tmdb.org/t/p/original/7O0WDGsa4lBzqv3uaB1tp8UvFK3.jpg",
+        "count": 928,
+        "average": 6
+
+    },
+    {
+        "id":40,
+        "title":"Mufasa: The Lion King",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+        "count": 50005,
+        "average": 9.4
+
+    },
+    {
+        "id":41,
+        "title":"Kraven the Hunter",
+        "rating":4.5,
+        "img":"https://image.tmdb.org/t/p/original/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+        "count": 9125,
+        "average": 7.41
+
+    },
+    {
+        "id":42,
+        "title":"Sonic the Hedgehog 3",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "count": 8120,
+        "average": 9.78
+
+    },
+    {
+        "id":43,
+        "title":"Heretic",
+        "rating":3.7,
+        "img":"https://image.tmdb.org/t/p/original/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg",
+        "count": 577,
+        "average": 6.777
+
+    },
+    {
+        "id":44,
+        "title":"The Lord of the Rings: The War of the Rohirrime",
+        "rating":4.6,
+        "img":"https://image.tmdb.org/t/p/original/qXKFlGX9n66zd4q0oWztPuvRD9D.jpg",
+        "count": 7254,
+        "average": 9.4
+
+    },
+    {
+        "id":45,
+        "title":"The Crow",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg",
+        "count": 3621,
+        "average": 6.5
+
+    },
+    {
+        "id":46,
+        "title":"Bagman",
+        "rating":4.2,
+        "img":"https://image.tmdb.org/t/p/original/hzrvol8K2VWm2BsDTwb8YvRMzIH.jpg",
+        "count": 7141,
+        "average": 8.14
+
+    },
+    {
+        "id":47,
+        "title":"ReAwakening",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+        "count": 7215,
+        "average": 9.28
+
+    },
+    {
+        "id":48,
+        "title":"Strange Darling",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+        "count": 6205,
+        "average": 6.428
+
+    },{
+        "id":23,
+        "title":"The Shawshank Redemption",
+        "rating":3.4,
+        "img":"https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "count": 95,
+        "average": 4.428
+
+    },
+    {
+        "id":24,
+        "title":"The Godfather",
+        "rating":3.7,
+        "img":"https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "count": 295,
+        "average": 4.888
+
+    },
+    {
+        "id":13,
+        "title":"Schindler's List",
+        "rating":4.6,
+        "img":"https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "count": 1008,
+        "average": 8.3
+
+    },
+    {
+        "id":14,
+        "title":"12 Angry Men",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+        "count": 505,
+        "average": 7.4
+
+    },
+    {
+        "id":15,
+        "title":"千と千尋の神隠し",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "count": 1225,
+        "average": 9.41
+
+    },
+    {
+        "id":16,
+        "title":"दिलवाले दुल्हनिया ले जायेंगे",
+        "rating":4.5,
+        "img":"https://image.tmdb.org/t/p/original/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+        "count": 2330,
+        "average": 7.78
+
+    },
+    {
+        "id":17,
+        "title":"The Green Miled",
+        "rating":2.7,
+        "img":"https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "count": 177,
+        "average": 4.777
+
+    },
+    {
+        "id":18,
+        "title":"Smile 2",
+        "rating":2.3,
+        "img":"https://image.tmdb.org/t/p/original/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+        "count": 854,
+        "average": 6.4
+
+    },
+    {
+        "id":19,
+        "title":"Flow",
+        "rating":2.7,
+        "img":"https://image.tmdb.org/t/p/original/dzDMewC0Hwv01SROiWgKOi4iOc1.jpg",
+        "count": 621,
+        "average": 4.5
+
+    },
+    {
+        "id":20,
+        "title":"The Lord of the Rings: The Return of the King",
+        "rating":3.2,
+        "img":"https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "count": 941,
+        "average": 4.14
+
+    },
+    {
+        "id":21,
+        "title":"君の名は。",
+        "rating":4.6,
+        "img":"https://image.tmdb.org/t/p/original/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+        "count": 1215,
+        "average": 4.28
+
+    },
+    {
+        "id":22,
+        "title":"GoodFellas",
+        "rating":2.4,
+        "img":"https://image.tmdb.org/t/p/original/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "count": 105,
+        "average": 4.428
+
+    },{
+        "id":1,
+        "title":"Venom: The Last Dance",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+        "count": 995,
+        "average": 6.428
+
+    },
+    {
+        "id":2,
+        "title":"Moana 2",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/yh64qw9mgXBvlaWDi7Q9tpUBAvH.jpg",
+        "count": 395,
+        "average": 6.888
+
+    },
+    {
+        "id":3,
+        "title":"Elevation",
+        "rating":3.6,
+        "img":"https://image.tmdb.org/t/p/original/uQhYBxOVFU6s9agD49FnGHwJqG5.jpg",
+        "count": 108,
+        "average": 6.3
+
+    },
+    {
+        "id":4,
+        "title":"Sidelined: The QB and Me",
+        "rating":4,
+        "img":"https://image.tmdb.org/t/p/original//f8H9sLin46B7ka4DEqjemGuiCOB.jpg",
+        "count": 55,
+        "average": 6.4
+
+    },
+    {
+        "id":5,
+        "title":"Absolution",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/cNtAslrDhk1i3IOZ16vF7df6lMy.jpg",
+        "count": 125,
+        "average": 6.41
+
+    },
+    {
+        "id":6,
+        "title":"Watchmen: Chapter II",
+        "rating":2.5,
+        "img":"https://image.tmdb.org/t/p/original/4rBObJFpiWJOG7aIlRrOUniAkBs.jpg",
+        "count": 30,
+        "average": 7.28
+
+    },
+    {
+        "id":7,
+        "title":"Wicked",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "count": 777,
+        "average": 7.777
+
+    },
+    {
+        "id":8,
+        "title":"Smile 2",
+        "rating":2.3,
+        "img":"https://image.tmdb.org/t/p/original/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+        "count": 854,
+        "average": 6.4
+
+    },
+    {
+        "id":9,
+        "title":"Red One",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+        "count": 2021,
+        "average": 7.5
+
+    },
+    {
+        "id":10,
+        "title":"GTMAX",
+        "rating":4.2,
+        "img":"https://image.tmdb.org/t/p/original/bx92hl70NUhojjO3eV6LqKllj4L.jpg",
+        "count": 9951,
+        "average": 9.14
+
+    },
+    {
+        "id":11,
+        "title":"Level",
+        "rating":3,
+        "img":"https://image.tmdb.org/t/p/original/y1xm0jMIlx9Oo2a3jWNyLGm43sJ.jpg",
+        "count": 915,
+        "average": 4.428
+
+    },
+    {
+        "id":12,
+        "title":"Azrael",
+        "rating":4,
+        "img":"https://image.tmdb.org/t/p/original/qpdFKDvJS7oLKTcBLXOaMwUESbs.jpg",
+        "count": 995,
+        "average": 6.428
+
+    },{
+        "id":25,
+        "title":"TMZ",
+        "rating":2.9,
+        "img":"https://image.tmdb.org/t/p/original/ifFpUG51DJaQxwnZ35VwoGRFGGv.jpg",
+        "count": 45,
+        "average": 2.428
+
+    },
+    {
+        "id":26,
+        "title":"Ici tout commence",
+        "rating":4,
+        "img":"https://image.tmdb.org/t/p/original/yuTHx38jpogXovMhqNatvozigMJ.jpg",
+        "count": 4495,
+        "average": 7.888
+
+    },
+    {
+        "id":27,
+        "title":"Mania de Você",
+        "rating":3.1,
+        "img":"https://image.tmdb.org/t/p/original/xq1X6H8pupwx0jeZpu4Piq0V5uL.jpg",
+        "count": 928,
+        "average": 9
+
+    },
+    {
+        "id":28,
+        "title":"Papás por Conveniencia",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/y7yIu9PKx2WTphhYgbBq9C1RNzV.jpg",
+        "count": 5005,
+        "average": 8.4
+
+    },
+    {
+        "id":29,
+        "title":"Strictly Come Dancing: It Takes Two",
+        "rating":4.1,
+        "img":"https://image.tmdb.org/t/p/original/1UOKLsJ3bopZHg6ntRfmO4C5Gcm.jpg",
+        "count": 925,
+        "average": 4.41
+
+    },
+    {
+        "id":30,
+        "title":"I'm a Celebrity... Unpacked",
+        "rating":3.4,
+        "img":"https://image.tmdb.org/t/p/original/sY1x4nU5yGZ34E1Jew07aEhjPHK.jpg",
+        "count": 2120,
+        "average": 8.78
+
+    },
+    {
+        "id":31,
+        "title":"A Promessa",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/uptgxt2apx5wwWItQzqL0HwhjZC.jpg",
+        "count": 1077,
+        "average": 6.777
+
+    },
+    {
+        "id":32,
+        "title":"Ulice",
+        "rating":3.3,
+        "img":"https://image.tmdb.org/t/p/original/gFEHva8Csx18hMGJJZ6gi4sFSKR.jpg",
+        "count": 754,
+        "average": 5.4
+
+    },
+    {
+        "id":33,
+        "title":"Suidooster",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/naCgSiacvV685kait6fBvhVhdce.jpg",
+        "count": 2621,
+        "average": 6.5
+
+    },
+    {
+        "id":34,
+        "title":"愛•回家之開心速遞",
+        "rating":4.2,
+        "img":"https://image.tmdb.org/t/p/original/lgD4j9gUGmMckZpWWRJjorWqGVT.jpg",
+        "count": 741,
+        "average": 3.14
+
+    },
+    {
+        "id":35,
+        "title":"Lavender Fields",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/lphvsr062SlxWM6XegsV2dLGaiE.jpg",
+        "count": 3215,
+        "average": 8.28
+
+    },
+    {
+        "id":36,
+        "title":"GGarota do Momento",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/jFSkjQSZ5Td52igalpoTQRuHtk.jpg",
+        "count": 1205,
+        "average": 7.428
+
+    }
+]

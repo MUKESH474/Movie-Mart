@@ -1,0 +1,110 @@
+[
+    {
+        "id":23,
+        "title":"The Shawshank Redemption",
+        "rating":3.4,
+        "img":"https://image.tmdb.org/t/p/original/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+        "count": 95,
+        "average": 4.428
+
+    },
+    {
+        "id":24,
+        "title":"The Godfather",
+        "rating":3.7,
+        "img":"https://image.tmdb.org/t/p/original/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "count": 295,
+        "average": 4.888
+
+    },
+    {
+        "id":13,
+        "title":"Schindler's List",
+        "rating":4.6,
+        "img":"https://image.tmdb.org/t/p/original/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+        "count": 1008,
+        "average": 8.3
+
+    },
+    {
+        "id":14,
+        "title":"12 Angry Men",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+        "count": 505,
+        "average": 7.4
+
+    },
+    {
+        "id":15,
+        "title":"千と千尋の神隠し",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+        "count": 1225,
+        "average": 9.41
+
+    },
+    {
+        "id":16,
+        "title":"दिलवाले दुल्हनिया ले जायेंगे",
+        "rating":4.5,
+        "img":"https://image.tmdb.org/t/p/original/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+        "count": 2330,
+        "average": 7.78
+
+    },
+    {
+        "id":17,
+        "title":"The Green Miled",
+        "rating":2.7,
+        "img":"https://image.tmdb.org/t/p/original/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+        "count": 177,
+        "average": 4.777
+
+    },
+    {
+        "id":18,
+        "title":"Smile 2",
+        "rating":2.3,
+        "img":"https://image.tmdb.org/t/p/original/ht8Uv9QPv9y7K0RvUyJIaXOZTfd.jpg",
+        "count": 854,
+        "average": 6.4
+
+    },
+    {
+        "id":19,
+        "title":"Flow",
+        "rating":2.7,
+        "img":"https://image.tmdb.org/t/p/original/dzDMewC0Hwv01SROiWgKOi4iOc1.jpg",
+        "count": 621,
+        "average": 4.5
+
+    },
+    {
+        "id":20,
+        "title":"The Lord of the Rings: The Return of the King",
+        "rating":3.2,
+        "img":"https://image.tmdb.org/t/p/original/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+        "count": 941,
+        "average": 4.14
+
+    },
+    {
+        "id":21,
+        "title":"君の名は。",
+        "rating":4.6,
+        "img":"https://image.tmdb.org/t/p/original/vfJFJPepRKapMd5G2ro7klIRysq.jpg",
+        "count": 1215,
+        "average": 4.28
+
+    },
+    {
+        "id":22,
+        "title":"GoodFellas",
+        "rating":2.4,
+        "img":"https://image.tmdb.org/t/p/original/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+        "count": 105,
+        "average": 4.428
+
+    }
+]

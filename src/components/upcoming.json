@@ -1,0 +1,110 @@
+[
+    {
+        "id":37,
+        "title":"Wicked",
+        "rating":3.9,
+        "img":"https://image.tmdb.org/t/p/original/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+        "count": 450,
+        "average": 7.428
+
+    },
+    {
+        "id":38,
+        "title":"We Live in Time",
+        "rating":5,
+        "img":"https://image.tmdb.org/t/p/original/oeDNBgnlGF6rnyX1P1K8Vl2f3lW.jpg",
+        "count": 9495,
+        "average": 9.888
+
+    },
+    {
+        "id":39,
+        "title":"Le Comte de Monte-Cristo",
+        "rating":3.1,
+        "img":"https://image.tmdb.org/t/p/original/7O0WDGsa4lBzqv3uaB1tp8UvFK3.jpg",
+        "count": 928,
+        "average": 6
+
+    },
+    {
+        "id":40,
+        "title":"Mufasa: The Lion King",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/lurEK87kukWNaHd0zYnsi3yzJrs.jpg",
+        "count": 50005,
+        "average": 9.4
+
+    },
+    {
+        "id":41,
+        "title":"Kraven the Hunter",
+        "rating":4.5,
+        "img":"https://image.tmdb.org/t/p/original/1GvBhRxY6MELDfxFrete6BNhBB5.jpg",
+        "count": 9125,
+        "average": 7.41
+
+    },
+    {
+        "id":42,
+        "title":"Sonic the Hedgehog 3",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+        "count": 8120,
+        "average": 9.78
+
+    },
+    {
+        "id":43,
+        "title":"Heretic",
+        "rating":3.7,
+        "img":"https://image.tmdb.org/t/p/original/5HJqjCTcaE1TFwnNh3Dn21be2es.jpg",
+        "count": 577,
+        "average": 6.777
+
+    },
+    {
+        "id":44,
+        "title":"The Lord of the Rings: The War of the Rohirrime",
+        "rating":4.6,
+        "img":"https://image.tmdb.org/t/p/original/qXKFlGX9n66zd4q0oWztPuvRD9D.jpg",
+        "count": 7254,
+        "average": 9.4
+
+    },
+    {
+        "id":45,
+        "title":"The Crow",
+        "rating":4.7,
+        "img":"https://image.tmdb.org/t/p/original/58QT4cPJ2u2TqWZkterDq9q4yxQ.jpg",
+        "count": 3621,
+        "average": 6.5
+
+    },
+    {
+        "id":46,
+        "title":"Bagman",
+        "rating":4.2,
+        "img":"https://image.tmdb.org/t/p/original/hzrvol8K2VWm2BsDTwb8YvRMzIH.jpg",
+        "count": 7141,
+        "average": 8.14
+
+    },
+    {
+        "id":47,
+        "title":"ReAwakening",
+        "rating":4.9,
+        "img":"https://image.tmdb.org/t/p/original/uzHMp5heVLR68kbbUEXFPsmxYsM.jpg",
+        "count": 7215,
+        "average": 9.28
+
+    },
+    {
+        "id":48,
+        "title":"Strange Darling",
+        "rating":4.4,
+        "img":"https://image.tmdb.org/t/p/original/kWNCRgt3ocv19bYO0sk7TRuZuFY.jpg",
+        "count": 6205,
+        "average": 6.428
+
+    }
+]
